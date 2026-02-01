@@ -30,8 +30,8 @@ The application follows a **layered architecture**:
 
 ---
 
-## 🧩 Modules Description
-
+## 🧩 Modules Description 
+------------------------------
 ### Employee Entity
 Stores employee details such as:
 - Employee ID
@@ -61,7 +61,6 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 - Clean and simple UI for better user experience
 
 ---
-
 ## 🛠️ Tools & Technologies Used
 - Java
 - Spring Boot
@@ -74,7 +73,6 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 - GitHub
 
 ---
-
 ## 🚀 How to Run the Project
 1. Clone the repository
 2. Import the project into Eclipse / STS
@@ -83,6 +81,11 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 5. Access the application using:
 
       http://localhost:8080/employees
+-----------
 
+## Final Output
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/c817f456-e0fe-4623-8beb-f06ca198dc76" />
+
+-------
 ## ⭐ Note
 This project was developed as part of learning and training in Java Full Stack development under the guidance of [Satya Praksh sir](https://www.linkedin.com/in/sathyajavafullstacktrainerhyderabad/)
