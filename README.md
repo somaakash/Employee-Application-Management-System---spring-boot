@@ -88,4 +88,4 @@ Uses Spring Data JPA to perform database operations without writing SQL queries.
 
 -------
 ## ⭐ Note
-This project was developed as part of learning and training in Java Full Stack development under the guidance of [Satya Praksh sir](https://www.linkedin.com/in/sathyajavafullstacktrainerhyderabad/)
+This project was developed as part of learning and training in Java Full Stack development under the guidance of [Satya Praksh sir](https://github.com/sathyasoma)
